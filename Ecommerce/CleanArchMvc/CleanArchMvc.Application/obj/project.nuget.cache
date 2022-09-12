@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eqDSTKQN1wPiTetYrmWKAZ0lG6zAO2l1YnrCY+E+tanMcRC4t2GxijwbtN/YYJT4NnaCVXkxRF2GAk8DsMIJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davim\\OneDrive\\Área de Trabalho\\C-estudy\\Ecommerce\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davim\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\davim\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
